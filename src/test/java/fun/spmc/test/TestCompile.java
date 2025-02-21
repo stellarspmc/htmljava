@@ -1,6 +1,5 @@
 package fun.spmc.test;
 
-import fun.spmc.html.compiler.CompileDiscoverer;
 import fun.spmc.html.compiler.Compiler;
 
 public class TestCompile {
